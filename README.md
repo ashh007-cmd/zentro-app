@@ -116,10 +116,4 @@ zentro-store/
 
 The application uses environment variables for configuration. All demo functionality works out of the box without additional setup.
 
-## 📄 License
 
-This project is for demonstration purposes. Please check the original Vercel Commerce license for usage rights.
-
----
-
-**Built with ❤️ using Vercel's v0 AI assistant**
