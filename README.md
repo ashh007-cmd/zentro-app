@@ -1,5 +1,6 @@
 # Zentro - Premium E-Commerce Store
-WEBSITE LINK-zentro-ecommerce.vercel.app
+WEBSITE LINK-(zentro-ecommerce.vercel.app)
+
 A modern, production-ready e-commerce store built with Next.js, featuring a complete shopping experience with demo functionality.
 
 ## 🚀 Features
